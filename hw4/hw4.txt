@@ -1,0 +1,19 @@
+Stephanie Doan
+ID: 604981556
+
+(1) No, the graph is UNSATISFIABLE for SAT instance of graph1.txt with 3 colors.
+
+(2) Yes, the SAT instance is SATISFIABLE with 4 colors.
+
+(3) The results to (1) and (2) tell me that the graph coloring problem of the graph described by graph1.txt
+is solvable with a minimum of 4 colors. An example coloring with four colors RED, BLUE, GREEN, YELLOW is as follows:
+    NODE - COLOR
+    1   -   RED
+    2   -   BLUE
+    3   -   YELLOW
+    4   -   RED
+    5   -   BLUE
+    6   -   YELLOW
+    7   -   GREEN
+
+(4) The graph coloring problem of the graph of graph2.txt is solvable with a minimum of 8 colors.
